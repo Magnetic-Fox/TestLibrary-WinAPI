@@ -1,7 +1,7 @@
 # Test Library (16-bit)
 
 This repository contains very simple dynamic linked library code written to compile for 16-bit Windows using Open Watcom compiler. Just for test purposes (and discovering how to write code compatible with old Watcom compiler, which is not obvious).
-The code contains one very simple function, LibMain (known in modern compilers as DllMain) and some resources.
+The code contains one very simple function, LibMain (known as DllMain) and some resources.
 
 ## What to use to compile this code?
 
